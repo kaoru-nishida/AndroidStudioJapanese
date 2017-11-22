@@ -10,8 +10,8 @@ Google翻訳の機械作業でやったため不自然な訳ありますがご�
 
 ## 導入方法
 windows linux mac共通
-ダウンロードしたresources_ja.jarを {AndroidStudioのインストールパス}/lib/ に置いてください。
-その後起動すれば日本語化されているはずです
+ダウンロードした<a href="https://github.com/kaoru-nishida/AndroidStudioJapanese/releases/download/1.0/resources_ja.jar">resources_ja.jar</a>を {AndroidStudioのインストールパス}/lib/ に置いてください。</br>
+その後起動すれば日本語化されているはずです</br>
 
 ## 履歴
 2017/11/22 ver.1.0 リリース (Android Studio 3.xをサポートしています)
